@@ -34,3 +34,19 @@ Brazilian E-commerce Public Dataset (Olist)
 
 ## 📁 Files
 - `ecommerce_analysis.sql` → SQL queries used for analysis
+
+
+
+
+
+## Python Analysis and Machine Learning
+
+Python was used to extend the SQL analysis by performing data preprocessing, feature engineering, visualization, and predictive modeling.
+
+Using pandas, matplotlib, and seaborn, delivery trends and order patterns were analyzed. A Random Forest model from scikit-learn was trained to predict the probability of successful order delivery based on purchase behavior features.
+
+Notebook: Ecommerce analysis.ipynb
+
+
+
+
